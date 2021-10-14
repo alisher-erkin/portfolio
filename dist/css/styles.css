@@ -11054,3 +11054,12 @@ html {
 .copyright {
   background-color: #1a252f;
 }
+/*add new css*/
+@media(max-width: 667px) {
+  .lead {
+    font-size: 16px;
+  }
+  .lead br {
+    display: none;
+  }
+}
