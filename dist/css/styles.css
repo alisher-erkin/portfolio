@@ -11063,3 +11063,8 @@ html {
     display: none;
   }
 }
+@media(max-width: 812px) {
+  .form__submit {
+    margin: 0px auto;
+  }
+}
