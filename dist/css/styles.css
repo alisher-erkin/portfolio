@@ -5351,7 +5351,9 @@ textarea.form-control-lg {
     max-width: 500px;
     margin: 1.75rem auto;
   }
-
+  .modal-dialog button {
+    margin-right: 20px;
+  }
   .modal-dialog-scrollable {
     height: calc(100% - 3.5rem);
   }
@@ -5416,6 +5418,9 @@ textarea.form-control-lg {
   }
   .modal-fullscreen-sm-down .modal-footer {
     border-radius: 0;
+  }
+  .modal-dialog button {
+    margin-bottom: 20px;
   }
 }
 @media (max-width: 767.98px) {
